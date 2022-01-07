@@ -5,10 +5,25 @@
 
 ##### List of websites.
 - **YouTube**
-- **Discogs**
-- **Reverb Nation**
+- **Vimeo**
+- **BandCamp**
 - **SoundCloud**
+- **ReverbNation**
+- **Last.FM**
+- **Discogs**
+- **Behance**
+- **We Heart It**
+- **Pinterest**
+- **Flickr**
+- **Tumblr**
+- **500px**
+- **23HQ**
+- **Etsy**
 - **Github**
+- **Dribble**
+- **Twitter**
+- **BlogSpot**
+- **Steam**
 
 ------------
 
