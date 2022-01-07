@@ -20,7 +20,6 @@ function YouTube() {
 	fi
 }
 
-
 function SoundCloud() {
 	baseUrl="https://soundcloud.com"
 	statusCode=$(curl -I -s -L "$baseUrl/$username" | grep -w "HTTP" | cut -d " " -f2 | tail -n 1)
@@ -80,7 +79,6 @@ function Reddit() {
 	  fi
 	done
 }
-
 
 function hunt() {
   YouTube
