@@ -11,5 +11,8 @@
 
 ------------
 
-###### This is a work-in-progress resource that will be updated once at least 20 websites have been added.
+![Preview](https://github.com/lethiferal/Hunter/blob/main/Assets/Preview.PNG?raw=true "Preview")
 
+------------
+
+###### This is a work-in-progress resource that will be updated once at least 20 websites have been added.
