@@ -5,8 +5,9 @@
 
 ##### List of websites.
 - **YouTube**
+- **Discogs**
+- **Reverb Nation**
 - **SoundCloud**
-- **Reddit**
 - **Github**
 
 ------------
